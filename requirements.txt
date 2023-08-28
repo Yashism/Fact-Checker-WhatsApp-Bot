@@ -1,0 +1,5 @@
+flask
+openai
+twilio
+pyngrok
+bs4
