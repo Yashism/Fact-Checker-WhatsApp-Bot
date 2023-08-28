@@ -11,7 +11,8 @@ The Fact-Check Chatbot is a web application built using Flask, Twilio, Web Searc
 5. Install the required dependencies: `pip install -r requirements.txt`
 6. Set up environment variables:
 - Obtain an OpenAI API key and set it as `OPENAI_API_KEY` in your environment.
-7. Run the application: `python app.py`
+7. Get Twilio phone number and set it up with ngrok
+8. Run the application: `python app.py`
 
 **Use Instructions:**
 1. The application listens for incoming SMS messages containing queries.
